@@ -3,7 +3,7 @@ background-color: black;
 text-align: center;
 font-family: verdana
 }
-.header{
+#header{
   color: white;
   font-weight: 300;
   font-size: 42px;
@@ -20,7 +20,7 @@ a{
     font-size: 21px;
     color: gray;
   }
- .copywrite{
+ #copywrite{
    text-align: right;
   }
   
